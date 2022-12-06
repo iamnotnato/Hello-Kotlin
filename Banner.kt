@@ -1,8 +1,12 @@
 fun main() {
-    println("=======================")
+    printBorder()
     println("Happy Birthday, Jhansi!")
-    println("=======================")
+    printBorder()
 }
 
 fun printBorder() {
-    println("=======================")
+    repeat(23) {
+        print("=")
+    }
+    println()
+}

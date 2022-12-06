@@ -8,10 +8,12 @@
 //Inside the parentheses you put the text to be printed.
 //Notice that the text to be printed is surrounded by quotes. This tells the system that everything inside the quotation marks should be printed exactly as given
 fun main() {
-    println("Happy Birthday!")
-    println("You are 34!")
-    println("with line \n break")
-
+    
+    val age = 5 * 365
+    val name = "Rover"
+    
+    println("Happy Birthday, ${name}!")
+    
     // Let's print a cake!
     println("   ,,,,,   ")
     println("   |||||   ")
@@ -19,7 +21,10 @@ fun main() {
     println("@@@@@@@@@@@")
     println("{~@~@~@~@~}")
     println("@@@@@@@@@@@")
-
+    
     // This prints an empty line.
     println("")
+
+    println("You are already ${age} days old, ${name}!")
+    println("${age} days old is the very best age to celebrate!")
 }
