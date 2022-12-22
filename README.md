@@ -17,7 +17,7 @@ This is my hands-on practice and understanding of the concepts of the Kotlin pro
 
 <h4>Files:</h4>
 
-* [Banner.kt - Banner](Banner.kt)
-* [Basics.kt - Basics](Basics.kt)
+* [banner.kt - Banner](Banner.kt)
+* [basics.kt - Basics](Basics.kt)
 * [advancedbanner.kt - Advanced Banner](advancedbanner.kt)
 * [advancedcake.kt- Advanced Cake](advancedcake.kt)
