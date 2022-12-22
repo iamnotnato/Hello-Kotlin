@@ -17,5 +17,7 @@ This is my hands-on practice and understanding of the concepts of the Kotlin pro
 
 <h4>Files:</h4>
 
-* [index.js - Index](index.js)
-* [main.js - Main](main.js)
+* [Banner.kt - Banner](Banner.kt)
+* [Basics.kt - Basics](Basics.kt)
+* [advancedbanner.kt - Advanced Banner](advancedbanner.kt)
+* [advancedcake.kt- Advanced Cake](advancedcake.kt)
