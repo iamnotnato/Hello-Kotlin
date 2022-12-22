@@ -11,7 +11,7 @@ This is my hands-on practice and understanding of the concepts of the Kotlin pro
 <h4>Integrated Development Environment:</h4>
 <table>
   <tr>
-<td><img alt="medium" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"></td>
+<td><img alt="medium" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></td>
   </tr>
 </table>
 
